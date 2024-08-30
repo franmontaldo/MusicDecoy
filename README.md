@@ -1,7 +1,7 @@
-<div style="border: 1px solid yellow; padding: 10px; border-radius: 5px;">
-    <h3 style="text-align: center;">⫚ : Fork of the Original Music Decoy</h3>
-    <p>This is a modified version of the original Music Decoy app. The key difference is that this fork opens a default media player specified by the user in the configuration, rather than simply preventing the Music app from launching.</p>
-</div>
+<p align="center" style="border: 1px solid yellow; padding: 10px; border-radius: 5px; display: inline-block;">
+    <strong style="display: block; margin-bottom: 10px; font-weight: 800; font-size: 1.5rem">⫚ : Fork of the Original Music Decoy</strong>
+    <span>This is a modified version of the original Music Decoy app. The key difference is that this fork opens a default media player specified by the user in the configuration, rather than simply preventing the Music app from launching.</span>
+</p>
 
 <p align="center">
     <a href="https://files.lowtechguys.com/MusicDecoy.zip"><img width="128" height="128" src="Music/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" style="filter: drop-shadow(0px 2px 4px rgba(80, 50, 6, 0.2));"></a>
