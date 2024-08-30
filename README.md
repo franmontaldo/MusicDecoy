@@ -2,6 +2,8 @@
 > <strong style="font-size: 2rem; font-weight: 900;"> ⫚ </strong><strong style="font-size: 1.5rem;"> Fork of the Original Music Decoy</strong><br>
 > <span style="font-size: 1rem;">&ensp;&ensp;This is a modified version of the original Music Decoy app. The key difference is that this fork opens a default media player specified by the user in the configuration, rather than simply preventing the Music app from launching.</span>
 
+### Original README.md bellow:
+
 <p align="center">
     <a href="https://files.lowtechguys.com/MusicDecoy.zip"><img width="128" height="128" src="Music/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" style="filter: drop-shadow(0px 2px 4px rgba(80, 50, 6, 0.2));"></a>
     <h1 align="center"><code style="text-shadow: 0px 3px 10px rgba(8, 0, 6, 0.35); font-size: 3rem; font-family: ui-monospace, Menlo, monospace; font-weight: 800; background: transparent; color: #4d3e56; padding: 0.2rem 0.2rem; border-radius: 6px">Music Decoy</code></h1>
