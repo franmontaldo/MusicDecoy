@@ -1,30 +1,7 @@
-<style>
-        .warning-message {
-            border: 1px solid #FFD700; /* Gold border */
-            padding: 15px;
-            border-radius: 5px;
-            max-width: 600px;
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-        .warning-message h1 {
-            margin-top: 0;
-            font-size: 18px;
-        }
-        .warning-message p {
-            margin-bottom: 0;
-            font-size: 16px;
-        }
-    </style>
-</head>
-<body>
-    <div class="warning-message">
-        <h1>⫚ : Fork of the Original Music Decoy</h1>
-        <p>
-            This is a modified version of the original Music Decoy app. The key difference is that this fork opens a default media player specified by the user in the configuration, rather than simply preventing the Music app from launching.
-        </p>
-    </div>
-</body>
+<div style="border: 1px solid yellow; padding: 10px; border-radius: 5px;">
+    <h3 style="text-align: center;">⫚ : Fork of the Original Music Decoy</h3>
+    <p>This is a modified version of the original Music Decoy app. The key difference is that this fork opens a default media player specified by the user in the configuration, rather than simply preventing the Music app from launching.</p>
+</div>
 
 <p align="center">
     <a href="https://files.lowtechguys.com/MusicDecoy.zip"><img width="128" height="128" src="Music/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" style="filter: drop-shadow(0px 2px 4px rgba(80, 50, 6, 0.2));"></a>
